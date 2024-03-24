@@ -13,6 +13,7 @@ public class IntentBi1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IntentBi1Application.class, args);
+System.out.println(“success”);
 	}
 	
 	@Bean
